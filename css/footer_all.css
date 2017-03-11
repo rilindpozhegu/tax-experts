@@ -1,0 +1,28 @@
+
+/*General Footer Section on all Pages!!!*/
+
+.general_footer {
+  background-color: #81C241;
+  padding: 30px 0px 10px;
+  color: white;
+}
+
+.general_footer p {
+  padding-top: 10px;
+  font-size: 16px;
+}
+
+.solial_media_footer {
+  text-align: right;
+}
+
+.solial_media_footer i {
+    color: white;
+    font-size: 22px;
+    padding-left: 22px;
+    padding-top: 7px;
+}
+
+.general_footer img {
+  width: 20%;
+}

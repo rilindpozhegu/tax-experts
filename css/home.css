@@ -1,0 +1,121 @@
+/*====================*/
+/*        HOME        */
+/*====================*/
+
+.header_section_home {
+	background-image: url('../img/background/home_bg1-01.png');
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	color: white;
+}
+
+/*All pages Title*/
+
+.header_title_cover {	
+	padding: 19% 10px;
+}
+.header_title_cover h2 { 
+	font-size: 50px;
+	font-family: 'Montserrat-Light';
+}
+
+.header_title_cover span {
+	color: #81C241;
+}
+
+.button_style_c {
+	background-color: #81C241;
+	height: 40px;
+	width: 150px;
+	border: none;
+	border-radius: 30px;
+	color: white;
+	font-family: 'Montserrat-Bold';
+	margin-top: 2%;
+}
+
+/*Homepage First Section img and text*/
+
+.home_p_section_one {
+	padding: 50px 10px;
+	background-color: #F1F2F2;
+}
+
+.home_p_section_one img {
+	width: 100%;
+}
+
+.home_p_section_one h4 {
+	color: #00355E;
+	font-family: 'Montserrat-Light';
+	font-size: 30px;
+	padding-top: 3%;
+}
+
+.home_p_section_one h5 {
+	color: #00355E;
+	font-family: 'Montserrat-Bold';
+	font-size: 18px;
+}
+
+.home_p_section_one p {
+	color: #5D6A84;
+	font-family: 'Montserrat-Light';
+	font-size: 16px;
+
+}
+
+
+/*Our Services Homepage*/
+
+.our_services_home {
+	padding: 60px 10px;
+}
+
+.our_services_home h2 {	
+	color: #5D6A84;
+	font-family: 'Montserrat-Light';
+	font-size: 35px;
+	text-align: center;
+}
+
+.our_services_home p {
+	text-align: center;
+	font-size: 17px;
+	color: #5D6A84;
+}
+.our_services_home hr {
+	display: block;
+    height: 2px;
+    border: 0;
+    border-top: 4px solid #81C241;
+    padding: 0;
+    padding-bottom: 20px;
+    width: 20%;
+}
+
+.services_panel_sm {
+	text-align: center;
+}
+.services_panel_sm img {
+	width: 40%;
+}
+
+.services_panel_sm h5 {	
+	color: #00355E;
+	font-family: 'Montserrat-Bold';
+	font-size: 16px;
+}
+.services_panel_sm p {	
+	text-align: center;
+	font-size: 15px;
+	color: #5D6A84;
+}
+
+.services_panel_sm h4 {
+	font-size: 13px;
+	color: #81C241;
+}

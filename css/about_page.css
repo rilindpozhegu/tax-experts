@@ -1,0 +1,37 @@
+/*====================*/
+/*        ABOUT       */
+/*====================*/
+
+.header_section_about {
+	background-image: url('../img/background/about_bg1-01.png');
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	color: white;
+}
+
+.about_p_section_one {
+	padding: 50px 10px;
+}
+
+.about_p_section_one h4 {
+	color: #00355E;
+	font-family: 'Montserrat-Light';
+	font-size: 30px;
+	padding-top: 3%;
+}
+
+.about_p_section_one h5 {
+	color: #00355E;
+	font-family: 'Montserrat-Bold';
+	font-size: 18px;
+}
+
+.about_p_section_one p {
+	color: #5D6A84;
+	font-family: 'Montserrat-Light';
+	font-size: 16px;
+
+}

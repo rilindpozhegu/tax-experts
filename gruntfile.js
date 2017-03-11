@@ -28,19 +28,6 @@ module.exports = function(grunt) {
 					'js/animate.js',
 					// --------------------------------// 
 
-					// Gallery Scripts New ONE
-					'js/gallery/add_gallery.js',
-					'js/gallery/lightgallery.min.js',
-					'js/gallery/lg-fullscreen.min.js',
-					'js/gallery/lg-thumbnail.min.js',
-					'js/gallery/lg-video.min.js',
-					'js/gallery/lg-autoplay.min.js',
-					'js/gallery/lg-zoom.min.js',
-					'js/gallery/lg-hash.min.js',
-					'js/gallery/lg-pager.min.js',
-					'js/gallery/jquery.mousewheel.min.js',
-					// ---------------------------------//
-
 					'js/smoothscroll.js' // Smooth Scroll Script + time to Scroll,
 
 					],

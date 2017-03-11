@@ -1,0 +1,45 @@
+/*Benefits Section One!*/
+
+.benefits_section_1 {
+	background-image: url('../img/benefits_section1-01.png');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.benefits_section_2 {
+	background-image: url('../img/benefits_section2-01.png');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.benefits_section {
+	padding: 70px 10px;
+	color: white;
+}
+.benefits_section h1 {
+	font-family: 'Montserrat-Light';
+	padding: 0px 15px;
+}
+.benefits_section hr {	
+	display: block;
+    height: 2px;
+    border: 0;
+    border-top: 4px solid #81C241;
+    padding-bottom: 20px;
+    margin: 0px 15px;
+    width: 20%;
+}
+.benefits_section p {
+	color: #D1D3D4;
+}
+
+.benefits_section h5 {
+	font-size: 25px;
+	margin-top: 0px;
+	padding-bottom: 5px;
+	font-family: 'Montserrat-Light';
+}
+
+.benefits_section i {
+	color: #81C241;
+}

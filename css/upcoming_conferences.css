@@ -1,0 +1,63 @@
+.upcoming_conferences {
+	padding: 60px 10px;
+}
+
+.upcoming_conferences h1 {
+	color: #5D6A84;
+	font-family: 'Montserrat-Light';
+	font-size: 35px;
+}
+.upcoming_conferences hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 4px solid #81C241;
+    padding-bottom: 20px;
+    margin: 0px 0px;
+    width: 20%;
+}
+.upcoming_conferences p {
+	font-size: 17px;
+	color: #5D6A84;
+	padding-bottom: 30px;
+}
+
+.conferences_panel {
+	border: solid 1px #5D6A84;
+	margin-bottom: 30px;
+}
+.conferences_panel img {
+	width: 100%;
+}
+
+.text_insdide_pan {
+	padding: 20px;
+}
+.conferences_panel span {
+	padding-top: 10px;
+	font-size: 10px;
+	font-family: 'Montserrat-Bold';
+	color: #5D6A84;
+}
+.conferences_panel h5 {
+	color: #00355E;
+	font-family: 'Montserrat-Light';
+	font-size: 20px;
+}
+.conferences_panel hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 4px solid #81C241;
+    padding-bottom: 10px;
+    margin: 0px 0px;
+    width: 30%;
+}
+.conferences_panel p {
+	font-size: 15px;
+	padding-bottom: 5px;
+}
+
+.conferences_panel .button_style_c {
+	margin-top: 0%;
+}

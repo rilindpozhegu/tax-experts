@@ -1,0 +1,14 @@
+/*-------------------*/
+/*	  Conferences    */
+/*-------------------*/
+
+.header_section_conferences {
+	background-image: url('../img/background/conferences_bg1-01.png');
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	color: white;
+
+}

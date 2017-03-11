@@ -1,0 +1,15 @@
+.contact_forms_section {
+	padding: 130px 10px;
+	background-image: url('../img/contact_form_bg_all-01.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.contact_forms_section {
+	text-align: center;
+}
+
+.contact_forms_section button {
+	margin-top: 6%;
+}

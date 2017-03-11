@@ -1,0 +1,55 @@
+.our_expert_team_section {
+	padding: 60px 10px 70px;
+}
+
+.our_expert_team_section h2 {	
+	color: #5D6A84;
+	font-family: 'Montserrat-Light';
+	font-size: 35px;
+	text-align: center;
+}
+
+.our_expert_team_section p {
+	text-align: center;
+	font-size: 17px;
+	color: #5D6A84;
+}
+.our_expert_team_section hr {
+	display: block;
+    height: 2px;
+    border: 0;
+    border-top: 4px solid #81C241;
+    padding: 0;
+    padding-bottom: 20px;
+    width: 20%;
+}
+
+.our_expert_t_panel img{
+	width: 100%;
+}
+
+.our_expert_t_panel h5 {
+	color: #5D6A84;
+	font-family: 'Montserrat-Light';
+	font-size: 24px;
+	margin-bottom: 3px;
+}
+
+.our_expert_t_panel span {
+	font-size: 18px;
+}
+
+.our_expert_t_panel hr {	
+	display: block;
+    height: 2px;
+    border: 0;
+    border-top: 2px solid #81C241;
+    padding: 5px 0px;
+    margin: 0px;
+    width: 60%;
+}
+
+.our_expert_t_panel p {
+	text-align: left;
+	font-size: 13px;
+}
