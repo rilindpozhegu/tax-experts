@@ -1,0 +1,32 @@
+/*-----------------*/
+/*	 Get in touch   * /
+/*-----------------*/
+
+.get_in_t_contact {
+	padding: 60px 10px;
+	text-align: center;
+}
+.get_in_t_contact h2 {
+  color: #5D6A84;
+  font-family: 'Montserrat-Light';
+  font-size: 35px;
+}
+.get_in_t_contact p {
+  color: #5D6A84;
+}
+.get_in_t_contact .text {
+	color: black;
+}
+
+.get_in_t_contact .input_style {
+  border-bottom:2px solid #5D6A84;
+  color: #5D6A84;
+}
+
+.get_in_t_contact .label_string {
+	color: #5D6A84;
+} 
+
+.get_in_t_contact .button_style_c {
+	margin-top: 30px;
+}

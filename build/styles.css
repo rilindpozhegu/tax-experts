@@ -3379,6 +3379,7 @@ Copyright (c) 2015 Daniel Eden
 /*-----------------------*/
 /*	   BENEFITS PAGE     */
 /*-----------------------*/
+
 .header_section_benefits {
 	background-image: url('../img/background/benefits_bg1-01.png');
 	height: 100vh;
@@ -3389,7 +3390,47 @@ Copyright (c) 2015 Daniel Eden
 	color: white;
 }
 
+.befits_section_page {
+	padding: 60px 10px;
+}
 
+.befits_section_page h2 {
+	color: #00355E;
+	font-family: 'Montserrat-Light';
+	font-size: 35px;
+}
+
+.befits_section_page hr {	
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 4px solid #81C241;
+    padding-bottom: 20px;
+    margin: 0px 0px;
+    width: 20%;
+}
+
+.befits_section_page button {
+	margin-top: 15px;
+}
+
+.befits_section_page i {
+	color: #81C241;
+}
+
+.befits_section_page .col-md-4 {
+	text-align: center;
+	color: #5D6A84;
+	padding-top: 10px;
+}
+.befits_section_page h4 {
+	font-size: 22px;
+	font-family: 'Montserrat-Light';
+}
+
+.our_services_benefits {
+	background-color: #F1F2F2;
+}
 /*Benefits Section One!*/
 
 .benefits_section_1 {
@@ -3497,6 +3538,38 @@ Copyright (c) 2015 Daniel Eden
 
 .general_footer img {
   width: 20%;
+}
+/*-----------------*/
+/*	 Get in touch   * /
+/*-----------------*/
+
+.get_in_t_contact {
+	padding: 60px 10px;
+	text-align: center;
+}
+.get_in_t_contact h2 {
+  color: #5D6A84;
+  font-family: 'Montserrat-Light';
+  font-size: 35px;
+}
+.get_in_t_contact p {
+  color: #5D6A84;
+}
+.get_in_t_contact .text {
+	color: black;
+}
+
+.get_in_t_contact .input_style {
+  border-bottom:2px solid #5D6A84;
+  color: #5D6A84;
+}
+
+.get_in_t_contact .label_string {
+	color: #5D6A84;
+} 
+
+.get_in_t_contact .button_style_c {
+	margin-top: 30px;
 }
 /*====================*/
 /*        HOME        */
@@ -3620,6 +3693,14 @@ Copyright (c) 2015 Daniel Eden
 	color: #81C241;
 }
 
+.contact_forms_section h2 {
+  color: white;
+  font-family: 'Montserrat-Light';
+  font-size: 35px;
+}
+.contact_forms_section p {
+  color: white;
+}
 .group_inputs {
   color: white;
 }
@@ -3629,7 +3710,7 @@ Copyright (c) 2015 Daniel Eden
 .input_size_textarea {
   margin-top: 50px;
 }
-.input_style         {
+.input_style {
   font-size:18px;
   padding:10px 10px 10px 5px;
   display:block;
@@ -3658,7 +3739,7 @@ Copyright (c) 2015 Daniel Eden
 .input_style:focus ~ .label_string, .input_style:valid ~ .label_string    {
   top:-10px;
   font-size:12px;
-  color:white;
+  color:#81C241;
   transition:0.2s ease all; 
   -moz-transition:0.2s ease all; 
   -webkit-transition:0.2s ease all;
@@ -3718,11 +3799,10 @@ Copyright (c) 2015 Daniel Eden
 .textarea .input_style:focus ~ .label_string, .textarea .input_style:valid ~ .label_string    {
   top:-50px;
   font-size:12px;
-  color:red;
+  color:#81C241;
   transition:0.2s ease all; 
   -moz-transition:0.2s ease all; 
   -webkit-transition:0.2s ease all;
-  color: white;
 }
 
 /* ANIMATIONS ================ */

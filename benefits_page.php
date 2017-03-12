@@ -28,7 +28,7 @@
 </section>
 
 <!-- Benefits Text Section -->
-<section class="beefits_section_page">
+<section class="befits_section_page">
     <div class="container">
         <div class="row">
             <div class="col-md-10">
@@ -36,7 +36,7 @@
                 <hr>
             </div>
             <div class="col-md-2">
-                <button class="button_style_c">Read More</button>
+                <button class="button_style_c mobile-d-n">Contact</button>
             </div>           
             <div class="col-md-12">
                 <p>Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore</p>
@@ -59,8 +59,9 @@
 
 
 <!-- Homepage Our Services -->
+<section class="our_services_benefits">
     <?php include 'our_services_section.php';?>
-
+</section>
 
 <!-- Our Expert Team -->
     <?php include 'our_expert_team_section.php';?>

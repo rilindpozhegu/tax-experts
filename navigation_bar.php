@@ -37,7 +37,7 @@
                             <a class="active_nav6" href="news_page.php">NEWS</a>
                         </li>
                         <li>
-                            <a class="active_nav6" href="contact_page">GET IN TOUCH</a>
+                            <a class="active_nav6" href="get_in_touch_page.php">GET IN TOUCH</a>
                         </li>
                     </ul>
                 </nav>    

@@ -1,6 +1,7 @@
 /*-----------------------*/
 /*	   BENEFITS PAGE     */
 /*-----------------------*/
+
 .header_section_benefits {
 	background-image: url('../img/background/benefits_bg1-01.png');
 	height: 100vh;
@@ -11,3 +12,44 @@
 	color: white;
 }
 
+.befits_section_page {
+	padding: 60px 10px;
+}
+
+.befits_section_page h2 {
+	color: #00355E;
+	font-family: 'Montserrat-Light';
+	font-size: 35px;
+}
+
+.befits_section_page hr {	
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 4px solid #81C241;
+    padding-bottom: 20px;
+    margin: 0px 0px;
+    width: 20%;
+}
+
+.befits_section_page button {
+	margin-top: 15px;
+}
+
+.befits_section_page i {
+	color: #81C241;
+}
+
+.befits_section_page .col-md-4 {
+	text-align: center;
+	color: #5D6A84;
+	padding-top: 10px;
+}
+.befits_section_page h4 {
+	font-size: 22px;
+	font-family: 'Montserrat-Light';
+}
+
+.our_services_benefits {
+	background-color: #F1F2F2;
+}
