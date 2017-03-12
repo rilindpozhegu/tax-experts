@@ -3376,6 +3376,20 @@ Copyright (c) 2015 Daniel Eden
   -webkit-animation-name: slideOutUp;
   animation-name: slideOutUp;
 }
+/*-----------------------*/
+/*	   BENEFITS PAGE     */
+/*-----------------------*/
+.header_section_benefits {
+	background-image: url('../img/background/benefits_bg1-01.png');
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	color: white;
+}
+
+
 /*Benefits Section One!*/
 
 .benefits_section_1 {
@@ -3725,6 +3739,20 @@ Copyright (c) 2015 Daniel Eden
   from { background:#5264AE; }
   to  { width:0; background:transparent; }
 }
+/*-------------------*/
+/*	  NEWS PAGE      */
+/*-------------------*/
+
+.header_section_news {
+	background-image: url('../img/background/news_bg1-01.png');
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	color: white;
+
+}
 /*News Section*/
 
 .lastest_news_section {
@@ -3899,6 +3927,10 @@ html {
       }
 }
 
+.active_nav {
+  color: #81C241 !important; 
+}
+
 /*Collapsed*/
 
 .top-nav-collapse {
@@ -3995,6 +4027,70 @@ Responsive Part
       font-size: 15px !important;
     }
   }
+/*-----------------------*/
+/*	   SERVICES PAGE     */
+/*-----------------------*/
+
+.header_section_services {
+	background-image: url('../img/background/services_bg1-01.png');
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	color: white;
+
+}
+.services_section_services_p {
+	padding: 60px 10px 70px;
+}
+
+.services_section_services_p h2 {	
+	color: #5D6A84;
+	font-family: 'Montserrat-Light'; 
+	font-size: 35px;
+	text-align: center;
+}
+
+.services_section_services_p p {
+	text-align: center;
+	font-size: 17px;
+	color: #5D6A84;
+}
+.services_section_services_p hr {
+	display: block;
+    height: 2px;
+    border: 0;
+    border-top: 4px solid #81C241;
+    padding: 0;
+    padding-bottom: 20px;
+    width: 20%;
+}
+
+.services_section_panel {
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.services_section_panel img {
+	width: 35%;
+	padding-bottom: 10px;
+}
+
+.services_section_panel h5 {
+	color: #5D6A84;
+	font-family: 'Montserrat-Light'; 
+	font-size: 25px;
+	text-align: center;
+}
+
+.services_section_panel p {
+	text-align: center;
+	font-size: 15px;
+	color: #5D6A84;
+}
+
+
 .upcoming_conferences {
 	padding: 60px 10px;
 }

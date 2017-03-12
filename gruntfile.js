@@ -28,8 +28,8 @@ module.exports = function(grunt) {
 					'js/animate.js',
 					// --------------------------------// 
 
-					'js/smoothscroll.js' // Smooth Scroll Script + time to Scroll,
-
+					'js/smoothscroll.js', // Smooth Scroll Script + time to Scroll,
+					'js/active_property.js'
 					],
 
 				dest: 'build/scripts.js'

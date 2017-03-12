@@ -39,6 +39,10 @@ html {
       }
 }
 
+.active_nav {
+  color: #81C241 !important; 
+}
+
 /*Collapsed*/
 
 .top-nav-collapse {

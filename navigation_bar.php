@@ -13,32 +13,34 @@
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a class="active_nav" href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="active_nav2" href="index.php">HOME</a>
-                    </li>
-                    <li>
-                        <a class="active_nav3" href="about.php">ABOUT</a>
-                    </li>
-                    <li>
-                        <a class="active_nav3" href="about.php">SERVICES</a>
-                    </li>
-                    <li>
-                        <a class="active_nav4" href="work_with_us">BENEFITS</a>
-                    </li>
-                    <li>
-                        <a class="active_nav5" href="conferences_page.php">CONFERENCES</a>
-                    </li>
-                    <li>
-                        <a class="active_nav6" href="contact_page">NEWS</a>
-                    </li>
-                    <li>
-                        <a class="active_nav6" href="contact_page">GET IN TOUCH</a>
-                    </li>
-                </ul>
+                <nav>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="hidden">
+                            <a class="active_nav" href="#page-top"></a>
+                        </li>
+                        <li>
+                            <a class="active_nav2" href="index.php">HOME</a>
+                        </li>
+                        <li>
+                            <a class="active_nav3" href="about.php">ABOUT</a>
+                        </li>
+                        <li>
+                            <a class="active_nav3" href="services_page.php">SERVICES</a>
+                        </li>
+                        <li>
+                            <a class="active_nav4" href="benefits_page.php">BENEFITS</a>
+                        </li>
+                        <li>
+                            <a class="active_nav5" href="conferences_page.php">CONFERENCES</a>
+                        </li>
+                        <li>
+                            <a class="active_nav6" href="news_page.php">NEWS</a>
+                        </li>
+                        <li>
+                            <a class="active_nav6" href="contact_page">GET IN TOUCH</a>
+                        </li>
+                    </ul>
+                </nav>    
             </div>
             <!-- /.navbar-collapse -->
         </div>

@@ -1,0 +1,13 @@
+/*-----------------------*/
+/*	   BENEFITS PAGE     */
+/*-----------------------*/
+.header_section_benefits {
+	background-image: url('../img/background/benefits_bg1-01.png');
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	color: white;
+}
+
