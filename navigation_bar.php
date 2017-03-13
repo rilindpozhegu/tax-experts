@@ -1,7 +1,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top colored_nav" role="navigation">
         <div class="container">
-            <div class="navbar-header active_nav">
+            <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
@@ -18,26 +18,26 @@
                         <li class="hidden">
                             <a class="active_nav" href="#page-top"></a>
                         </li>
-                        <li>
-                            <a class="active_nav2" href="index.php">HOME</a>
+                        <li class=" sliding-middle-out">
+                            <a class="#" href="index.php">HOME</a>
                         </li>
-                        <li>
-                            <a class="active_nav3" href="about.php">ABOUT</a>
+                        <li class=" sliding-middle-out">
+                            <a class="#" href="about.php">ABOUT</a>
                         </li>
-                        <li>
-                            <a class="active_nav3" href="services_page.php">SERVICES</a>
+                        <li class=" sliding-middle-out">
+                            <a class="#" href="services_page.php">SERVICES</a>
                         </li>
-                        <li>
-                            <a class="active_nav4" href="benefits_page.php">BENEFITS</a>
+                        <li class=" sliding-middle-out">
+                            <a class="#" href="benefits_page.php">BENEFITS</a>
                         </li>
-                        <li>
-                            <a class="active_nav5" href="conferences_page.php">CONFERENCES</a>
+                        <li class=" sliding-middle-out">
+                            <a class="#" href="conferences_page.php">CONFERENCES</a>
                         </li>
-                        <li>
-                            <a class="active_nav6" href="news_page.php">NEWS</a>
+                        <li class=" sliding-middle-out">
+                            <a class="#" href="news_page.php">NEWS</a>
                         </li>
-                        <li>
-                            <a class="active_nav6" href="get_in_touch_page.php">GET IN TOUCH</a>
+                        <li class=" sliding-middle-out">
+                            <a class="#" href="get_in_touch_page.php">GET IN TOUCH</a>
                         </li>
                     </ul>
                 </nav>    

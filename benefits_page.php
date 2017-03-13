@@ -21,8 +21,8 @@
 <section class="header_section_benefits header_title_cover">
     <div class="container">
         <div class="row">
-            <h2>Perspiciatis unde omnis iste natus sit <span>voluptatem accusantium</span></h2>
-            <button class="button_style_c">Contact</button>
+            <h2 class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Perspiciatis unde omnis iste natus sit <span>voluptatem accusantium</span></h2>
+            <button class="button_style_c wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Contact</button>
         </div>
     </div>
 </section>
@@ -32,23 +32,23 @@
     <div class="container">
         <div class="row">
             <div class="col-md-10">
-                <h2>Benefits</h2> 
-                <hr>
+                <h2 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Benefits</h2> 
+                <hr class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s">
                 <button class="button_style_c mobile-d-n">Contact</button>
             </div>           
-            <div class="col-md-12">
+            <div class="col-md-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                 <p>Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore</p>
                 <p>Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore.erspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventoreerspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore.erspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventoreerspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore.erspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore</p>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
                 <h4><i class="fa fa-check" aria-hidden="true"></i> Compliance With The Laws</h4>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <h4><i class="fa fa-check" aria-hidden="true"></i> Cost Reduction</h4>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                 <h4><i class="fa fa-check" aria-hidden="true"></i> Up-to-date Policies</h4>
             </div>
         </div>

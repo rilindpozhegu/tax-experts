@@ -34,19 +34,21 @@ html {
     }
     .navbar-fixed-top {
         background-color: transparent;
-        border: none;
+        border: none; 
         padding-top: 35px;
       }
 }
 
-.active_nav {
-  color: #81C241 !important; 
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    font-family: 'Montserrat-Bold';
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
-
 /*Collapsed*/
 
 .top-nav-collapse {
-  background-color: rgba(47, 56, 119, 0.58) !important;
+  background-color: #504f4f !important;
   padding-top: 10px !important;
   transition: ease-in-out all 0.3s;
 }
@@ -55,6 +57,7 @@ html {
   width: 150px !important;
   transition: ease-in-out all 0.3s;
   padding-top: 10px;
+  padding-bottom: 5px;
 }
 
 
@@ -107,7 +110,7 @@ Responsive Part
       margin-right: 35px;
     }
     .navbar-fixed-top {
-      background-color: rgba(47, 56, 119, 0.78) !important; 
+      background-color: #504f4f !important; 
       text-align: center;
     }
     .navbar-toggle {
@@ -123,7 +126,7 @@ Responsive Part
       padding-bottom: 20px;
     }
     .navbar-default .navbar-toggle .icon-bar {
-      background-color: #f7941d;
+      background-color: white;
       width: 25px;
     }
     .top-nav-collapse .navbar-toggle {
@@ -139,3 +142,7 @@ Responsive Part
       font-size: 15px !important;
     }
   }
+
+  .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 380px;
+}

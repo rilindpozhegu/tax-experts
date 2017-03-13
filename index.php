@@ -15,16 +15,13 @@
 <!-- Header all Pages -->    
     <?php include 'navigation_bar.php';?>
 
-
-
-
 <!-- Cover Section -->
 
 <section class="header_section_home header_title_cover">
     <div class="container">
         <div class="row">
-            <h2>VAT is arriving in the UAE in 2018,<br> it will cost businesses <span>AED<br> 12,000,000,000</span> in the first year</h2>
-            <button class="button_style_c">Contact</button>
+            <h2 class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">VAT is arriving in the UAE in 2018,<br> it will cost businesses <span>AED<br> 12,000,000,000</span> in the first year</h2>
+            <a href="get_in_touch_page.php"><button class="button_style_c wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Contact</button></a>
         </div>
     </div>
 </section>
@@ -35,14 +32,14 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img src="img/home_first_img-01.png">
+                <img src="img/home_first_img-01.png" class=" wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
             </div>
             <div class="col-md-6">
-                <h4>About Tax Expert</h4>
-                <p>Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. Ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia</p>
-                <h5>Tax Expert Professionals</h5>
-                <p>Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore</p>
-                <button class="button_style_c">Read More</button>
+                <h4 class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">About Tax Expert</h4>
+                <p class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. Ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia</p>
+                <h5 class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Tax Expert Professionals</h5>
+                <p class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore</p>
+                <button class="button_style_c wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Read More</button>
             </div>
         </div>
     </div>
@@ -74,10 +71,10 @@
 <!-- Footer all Pages -->    
     <?php include 'footer_all.php';?>
 
-
-    
+    <script>
+        new WOW().init();
+    </script>
     <script type="text/javascript" src="build/scripts.js"></script>
 
-    
 </body>
 </html>

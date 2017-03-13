@@ -1,0 +1,47 @@
+/*
+///////////////////////////////////////////////////
+Responsive Part 
+///////////////////////////////////////////////////
+*/
+
+@media only screen and (min-width: 844px) {
+    .desktop-d-n {
+        display: none;
+    }
+}
+
+/*Mobile Version*/
+
+@media only screen and (max-width: 844px) {
+    .mobile-d-n {
+        display: none;
+    }
+    .header_title_cover {
+	    padding: 33% 10px;
+	}
+    .header_title_cover h2 {
+	    font-size: 40px;
+	    font-family: 'Montserrat-Light';
+	}
+	.services_panel_sm p {
+	    text-align: center;
+	    font-size: 13px;
+	    color: #5D6A84;
+	}
+	.benefits_section h5 {
+	    font-size: 22px;
+	    margin-top: 0px;
+	    padding-bottom: 5px;
+	    font-family: 'Montserrat-Light';
+	}
+	.services_section_panel p {
+	    text-align: center;
+	    font-size: 13px;
+	    color: #5D6A84;
+	}
+	.befits_section_page .col-md-4 {
+	    text-align: left;
+	    color: #5D6A84;
+	    padding-top: 10px;
+	}
+}

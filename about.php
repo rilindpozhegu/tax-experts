@@ -21,8 +21,8 @@
 <section class="header_section_about header_title_cover">
     <div class="container">
         <div class="row">
-            <h2>Perspiciatis unde omnis iste natus sit <span>voluptatem accusantium</span></h2>
-            <button class="button_style_c">Contact</button>
+            <h2 class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Perspiciatis unde omnis iste natus sit <span>voluptatem accusantium</span></h2>
+            <button class="button_style_c wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Contact</button>
         </div>
     </div>
 </section>
@@ -32,10 +32,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h4>About Tax Expert</h4>
-                <p>Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. Ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia</p>
-                <h5>Tax Expert Professionals</h5>
-                <p>Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore.Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. Ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia</p>
+                <h4 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">About Tax Expert</h4>
+                <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. Ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia</p>
+                <h5 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Tax Expert Professionals</h5>
+                <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore.Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. Ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia</p>
             </div>
         </div>
     </div>
