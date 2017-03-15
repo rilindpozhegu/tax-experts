@@ -51,6 +51,7 @@ html {
   background-color: #504f4f !important;
   padding-top: 10px !important;
   transition: ease-in-out all 0.3s;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.14), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 .top-nav-collapse img {

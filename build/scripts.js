@@ -3432,6 +3432,6 @@ jQuery(document).ready(function($){
 		path = 'index.php';
 	}
 	var target = $('#nav_titles a[href="'+path+'"]');
-	// add active class to target lin
+	// add active class to target list
 	target.addClass ('active_nav');
 })

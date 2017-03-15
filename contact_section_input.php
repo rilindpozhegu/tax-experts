@@ -4,9 +4,9 @@
         <div class="row">
            <h2 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Get In Touch</h2>
            <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Send us an email by entering your details and any comments you may have in the form.</p>
-            <div class="col-md-2"></div>
+            <!-- <div class="col-md-2"></div> -->
 
-            <div class="col-md-8">
+            <div class="col-md-8 col-md-offset-2">
                 
                 <div class="col-md-6 input_size wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">                
                     <div class="group_inputs">      
@@ -55,7 +55,7 @@
 
             </div>
 
-            <div class="col-md-2"></div>
+            <!-- <div class="col-md-2"></div> -->
         </div>
     </div>     
 </section>

@@ -73,10 +73,6 @@
 
 <!-- Footer all Pages -->    
     <?php include 'footer_all.php';?>
-
-    <script>
-        new WOW().init();
-    </script>
     <script type="text/javascript" src="build/scripts.js"></script>
 
 </body>

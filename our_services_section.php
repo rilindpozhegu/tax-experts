@@ -17,6 +17,7 @@
                 <p>From scheduling to reporting in the right manner and to the right authorities, we will ensure that your business is compliant and proactive so as to always be on top of taxation.<br>&nbsp;</p>
                 <a href="#"><h4 class="read_more_ins">Read More <span><img src="img/hover_arrow-01.svg"></span></h4></a>
             </div>
+            <div class="clearfix visible-xs"></div>
             <div class="col-md-3 col-xs-6 services_panel_sm wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <img src="img/icons/icon3-01.svg">
                 <h5>VAT Solution</h5>
