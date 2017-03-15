@@ -3,7 +3,7 @@
               var owl = $('.costuma');
               owl.owlCarousel({
                 margin: 20,
-                nav: false,
+                nav: true,
                 loop: true,
                 autoplay: true,
                 autoplayTimeout: 5000,

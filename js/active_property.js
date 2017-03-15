@@ -5,7 +5,7 @@ jQuery(document).ready(function($){
 	if (path == '') {
 		path = 'index.php';
 	}
-	var target = $('nav a[href="'+path+'"]');
-	// add active class to target lin
+	var target = $('#nav_titles a[href="'+path+'"]');
+	// add active class to target list
 	target.addClass ('active_nav');
 })

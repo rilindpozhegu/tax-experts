@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/favicon-01.png">
     <title>Tax Experts</title>
 
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -34,7 +35,7 @@
         <div class="row">            
             <h1 class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Latest News</h1>
             <hr class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-            <p class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore</p>
+            <p class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Read the latest developments regarding taxes in the UAE.</p>
             <div class="col-md-12  wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="news_panel_section row">
                     <div class="col-md-5 no_padding">

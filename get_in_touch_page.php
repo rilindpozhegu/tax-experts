@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/favicon-01.png">
     <title>Tax Experts</title>
 
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -21,7 +22,7 @@
 <section class="header_section_services header_title_cover">
     <div class="container">
         <div class="row">
-            <h2 class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Perspiciatis unde omnis iste natus sit <span>voluptatem accusantium</span></h2>
+            <h2 class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Do not wait any longer to ensure that your business is ready and proactive in the <span> face of taxes. </span></h2>
             <button class="button_style_c wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Contact</button>
         </div>
     </div>

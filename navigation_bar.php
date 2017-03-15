@@ -8,12 +8,12 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                    <a href="index"><img src="img/logos/tax_logo1-01.png"></a>
+                    <a href="index.php"><img src="img/logos/tax_logo1-01.png"></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
-                <nav>
+                <nav id="nav_titles">
                     <ul class="nav navbar-nav navbar-right">
                         <li class="hidden">
                             <a class="active_nav" href="#page-top"></a>

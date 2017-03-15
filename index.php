@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="img/favicon-01.png">
+
     <title>Tax Experts</title>
 
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -36,10 +39,10 @@
             </div>
             <div class="col-md-6">
                 <h4 class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">About Tax Expert</h4>
-                <p class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. Ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia</p>
-                <h5 class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Tax Expert Professionals</h5>
-                <p class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore</p>
-                <button class="button_style_c wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Read More</button>
+                <p class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">With the arrival of the value added tax in the United Arab Emirates in 2018, it is essential to be up to date and in compliance with the rules and regulations in order to keep doing business successfully. Our team of experts is ready to make sure your company adapts and transitions as smoothly as possible. </p>
+                <!-- <h5 class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Tax Expert Professionals</h5> -->
+                <p class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">We work to inform our clients about the VAT and its implications, help ensure that you assess the areas where VAT impacts your firm, and prepare the proper reports and procedures to ensure you comply with regulations.</p>
+                <a href="benefits_page.php"><button class="button_style_c wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Read More</button></a>
             </div>
         </div>
     </div>

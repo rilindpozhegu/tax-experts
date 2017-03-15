@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/favicon-01.png">
     <title>Tax Experts</title>
 
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -39,8 +40,7 @@
                 <button class="button_style_c mobile-d-n">Contact</button>
             </div>           
             <div class="col-md-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                <p>Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore</p>
-                <p>Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore.erspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventoreerspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore.erspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventoreerspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore.erspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore</p>
+                <p>By doing business with us, you will ensure that you are at all times completely up to date with the latest rules and regulations regarding tax. Our partners can rest easy knowing that they are covered and in compliance with all laws and regulations regarding VAT. Finally, we will ensure that the cost of taxes is minimized through optimal and personalized solutions.</p>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
                 <h4><i class="fa fa-check" aria-hidden="true"></i> Compliance With The Laws</h4>
